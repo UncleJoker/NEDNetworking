@@ -64,7 +64,6 @@
         
         NEDNetworkBaseModel *resultModel = [NEDNetworkBaseModel new];
         resultModel.data = responseObject;
-        
         compelete(resultModel);
         
     }];
