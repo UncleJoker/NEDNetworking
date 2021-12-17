@@ -1,0 +1,6 @@
+framework module NEDNetWorking {
+  umbrella header "NEDNetWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}

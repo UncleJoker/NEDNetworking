@@ -1,0 +1,45 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - NEDNetWorking (0.1.2):
+    - NEDNetWorking/Core (= 0.1.2)
+  - NEDNetWorking/Core (0.1.2):
+    - AFNetworking
+    - YYKit
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - NEDNetWorking (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - YYKit
+
+EXTERNAL SOURCES:
+  NEDNetWorking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  NEDNetWorking: d5891e9966a4caff92599793ed5a85f7b6c64e2e
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 962aacaa3713744064f936f05439cfbe4b67d0d3
+
+COCOAPODS: 1.11.0

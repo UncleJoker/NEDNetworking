@@ -1,0 +1,35 @@
+{
+  "name": "NEDNetWorking",
+  "version": "0.1.2",
+  "summary": "A short description of NEDNetWorking.",
+  "description": "网络请求底层库",
+  "homepage": "https://github.com/Joker/NEDNetWorking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Joker": "zhuangjingen@98du.com"
+  },
+  "source": {
+    "git": "https://github.com/Joker/NEDNetWorking.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NEDNetWorking/Core/Classes/**/*",
+  "subspecs": [
+    {
+      "name": "Core",
+      "dependencies": {
+        "AFNetworking": [
+
+        ],
+        "YYKit": [
+
+        ]
+      }
+    }
+  ]
+}
