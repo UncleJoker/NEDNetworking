@@ -37,6 +37,7 @@
             
         });
         _sessionManager = [AFHTTPSessionManager manager];
+        _sessionManager.responseSerializer.acceptableContentTypes = [NSSet setWithObjects:@"application/json",@"text/html", @"text/json", @"text/javascript",@"text/plain",@"image/gif",nil];
         _sessionManager.requestSerializer = [AFJSONRequestSerializer serializer];
         _sessionManager.responseSerializer = [AFHTTPResponseSerializer serializer];
     }
