@@ -17,9 +17,6 @@ NS_ASSUME_NONNULL_BEGIN
 /// 请求域名
 @property(nonatomic, copy) NSString *baseUrl;
 
-/// 是否显示加载数据HUD 默认关闭
-@property(nonatomic, assign) BOOL isShowLoadingHUD;
-
 /// 请求成功code值 默认是 0
 @property(nonatomic, assign) NSInteger successCode;
 

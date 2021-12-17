@@ -44,7 +44,6 @@ static CGFloat const kTimeOut = 15.0f;
         config.successCode = kSuccessCode;
         config.timeoutInterval = kTimeOut;
         config.baseUrl = kBaseUrl;
-        config.isShowLoadingHUD = YES;
         config.encryptParamsClass = NSStringFromClass(NEDEncryptTool.class);
         config.encryptParamsMethod = [NEDEncryptTool encryptMethodStiring];
         config.encryptParamsKeyStr = kParamsKeyStr;

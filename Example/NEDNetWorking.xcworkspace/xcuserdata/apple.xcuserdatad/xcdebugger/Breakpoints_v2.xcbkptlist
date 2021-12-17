@@ -18,6 +18,38 @@
             endingLineNumber = "87"
             landmarkName = "-getURLRequestWithParamsObject:httpMethod:url:"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CE6A0E4C-F6AE-49CD-8720-CD24EDB7D1DF - fb6b617e3a02ca7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NEDNetworking getURLRequestWithParamsObject:httpMethod:url:]"
+                  moduleName = "NEDNetWorking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Gitee/NEDNetWorking-iOS/NEDNetWorking/Core/Classes/Founction/NEDNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "414">
+               </Location>
+               <Location
+                  uuid = "CE6A0E4C-F6AE-49CD-8720-CD24EDB7D1DF - fb6b617e3a02ca7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NEDNetworking getURLRequestWithParamsObject:httpMethod:url:]"
+                  moduleName = "NEDNetWorking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Gitee/NEDNetWorking-iOS/NEDNetWorking/Core/Classes/Founction/NEDNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "322">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -34,6 +66,38 @@
             endingLineNumber = "83"
             landmarkName = "-getURLRequestWithParamsObject:httpMethod:url:"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "94301D64-38DD-4E1C-B052-103539B74290 - fb6b617e3a02d5fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NEDNetworking getURLRequestWithParamsObject:httpMethod:url:]"
+                  moduleName = "NEDNetWorking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Gitee/NEDNetWorking-iOS/NEDNetWorking/Core/Classes/Founction/NEDNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "302">
+               </Location>
+               <Location
+                  uuid = "94301D64-38DD-4E1C-B052-103539B74290 - fb6b617e3a02d5fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NEDNetworking getURLRequestWithParamsObject:httpMethod:url:]"
+                  moduleName = "NEDNetWorking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Gitee/NEDNetWorking-iOS/NEDNetWorking/Core/Classes/Founction/NEDNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "295">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -50,6 +114,38 @@
             endingLineNumber = "80"
             landmarkName = "-getURLRequestWithParamsObject:httpMethod:url:"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1CF3280C-9325-45D7-86DB-5F9CFF476E1E - fb6b617e3a02d565"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NEDNetworking getURLRequestWithParamsObject:httpMethod:url:]"
+                  moduleName = "NEDNetWorking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Gitee/NEDNetWorking-iOS/NEDNetWorking/Core/Classes/Founction/NEDNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "1CF3280C-9325-45D7-86DB-5F9CFF476E1E - fb6b617e3a02d565"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NEDNetworking getURLRequestWithParamsObject:httpMethod:url:]"
+                  moduleName = "NEDNetWorking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Gitee/NEDNetWorking-iOS/NEDNetWorking/Core/Classes/Founction/NEDNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy

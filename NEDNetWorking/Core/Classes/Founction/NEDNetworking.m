@@ -52,7 +52,7 @@
     
     id paramsObject = [NEDNetworkTool encryptParamsWithConfig:self.config params:params];
 
-    NSMutableURLRequest *request = [self getURLRequestWithParamsObject:paramsObject httpMethod:httpMethod url:url];
+    NSMutableURLRequest *request = [self getURLRequestWithParamsObject:paramsObject httpMethod:httpMethod url:[self.config.baseUrl stringByAppendingString:url]];
     
     NSURLSessionDataTask *dataTask = [self.sessionManager dataTaskWithRequest:request uploadProgress:nil downloadProgress:nil completionHandler:^(NSURLResponse * _Nonnull response, id  _Nullable responseObject, NSError * _Nullable error) {
         
