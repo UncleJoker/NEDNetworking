@@ -14,9 +14,9 @@ PODS:
   - AFNetworking/Serialization (4.0.1)
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
-  - NEDNetWorking (0.1.2):
-    - NEDNetWorking/Core (= 0.1.2)
-  - NEDNetWorking/Core (0.1.2):
+  - NEDNetWorking (0.1.1):
+    - NEDNetWorking/Core (= 0.1.1)
+  - NEDNetWorking/Core (0.1.1):
     - AFNetworking
     - YYKit
   - YYKit (1.0.9):
@@ -37,9 +37,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
-  NEDNetWorking: d5891e9966a4caff92599793ed5a85f7b6c64e2e
+  NEDNetWorking: c768d8254b9a06b95246d9e3a7ffe382f62a0f78
   YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
 
 PODFILE CHECKSUM: 962aacaa3713744064f936f05439cfbe4b67d0d3
 
-COCOAPODS: 1.11.0
+COCOAPODS: 1.11.2

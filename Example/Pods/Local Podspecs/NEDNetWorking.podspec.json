@@ -1,9 +1,9 @@
 {
   "name": "NEDNetWorking",
-  "version": "0.1.2",
-  "summary": "A short description of NEDNetWorking.",
+  "version": "0.1.1",
+  "summary": "NEDNetworking",
   "description": "网络请求底层库",
-  "homepage": "https://github.com/Joker/NEDNetWorking",
+  "homepage": "https://github.com/UncleJoker/NEDNetworking",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "Joker": "zhuangjingen@98du.com"
   },
   "source": {
-    "git": "https://github.com/Joker/NEDNetWorking.git",
-    "tag": "0.1.2"
+    "git": "git@github.com:UncleJoker/NEDNetworking.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "9.0"
